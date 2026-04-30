@@ -1,0 +1,79 @@
+========================================
+     Record Management System - Books   
+========================================
+1. Add record
+2. Display all records
+3. Search record by ID
+4. Update record
+5. Delete record
+6. Sort records
+7. Export to CSV
+8. Dashboard summary
+0. Exit
+Select an option: 
+Enter ID to search: ID: 101
+Title: Clean Code
+Author: Robert C. Martin
+Year: 2008
+Genre: Software Engineering
+Status: Available
+
+========================================
+     Record Management System - Books   
+========================================
+1. Add record
+2. Display all records
+3. Search record by ID
+4. Update record
+5. Delete record
+6. Sort records
+7. Export to CSV
+8. Dashboard summary
+0. Exit
+Select an option: 
+Enter ID to update: Current record:
+ID: 102
+Title: The Pragmatic Programmer
+Author: Andrew Hunt
+Year: 1999
+Genre: Programming
+Status: Checked Out
+
+Enter updated values.
+Title: Author: Year: Genre: Available? (yes/no): Record updated successfully.
+
+========================================
+     Record Management System - Books   
+========================================
+1. Add record
+2. Display all records
+3. Search record by ID
+4. Update record
+5. Delete record
+6. Sort records
+7. Export to CSV
+8. Dashboard summary
+0. Exit
+Select an option: 
+Enter ID to search: ID: 102
+Title: The Pragmatic Programmer 20th Anniversary
+Author: Andrew Hunt and David Thomas
+Year: 2019
+Genre: Programming
+Status: Available
+
+========================================
+     Record Management System - Books   
+========================================
+1. Add record
+2. Display all records
+3. Search record by ID
+4. Update record
+5. Delete record
+6. Sort records
+7. Export to CSV
+8. Dashboard summary
+0. Exit
+Select an option: 
+Exiting Record Management System.
+

@@ -1,0 +1,65 @@
+========================================
+     Record Management System - Books   
+========================================
+1. Add record
+2. Display all records
+3. Search record by ID
+4. Update record
+5. Delete record
+6. Sort records
+7. Export to CSV
+8. Dashboard summary
+0. Exit
+Select an option: 
+Add New Book Record
+ID: Title: Author: Year: Genre: Available? (yes/no): Record added successfully.
+
+========================================
+     Record Management System - Books   
+========================================
+1. Add record
+2. Display all records
+3. Search record by ID
+4. Update record
+5. Delete record
+6. Sort records
+7. Export to CSV
+8. Dashboard summary
+0. Exit
+Select an option: 
+Add New Book Record
+ID: Title: Author: Year: Genre: Available? (yes/no): Record added successfully.
+
+========================================
+     Record Management System - Books   
+========================================
+1. Add record
+2. Display all records
+3. Search record by ID
+4. Update record
+5. Delete record
+6. Sort records
+7. Export to CSV
+8. Dashboard summary
+0. Exit
+Select an option: 
+ID    Title                       Author                Year    Genre             Status        
+------------------------------------------------------------------------------------------------
+101   Clean Code                  Robert C. Martin      2008    Software Engin... Available     
+102   The Pragmatic Programmer    Andrew Hunt           1999    Programming       Checked Out   
+
+========================================
+     Record Management System - Books   
+========================================
+1. Add record
+2. Display all records
+3. Search record by ID
+4. Update record
+5. Delete record
+6. Sort records
+7. Export to CSV
+8. Dashboard summary
+0. Exit
+Select an option: 
+Exiting Record Management System.
+

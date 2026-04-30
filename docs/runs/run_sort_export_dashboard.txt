@@ -1,0 +1,105 @@
+========================================
+     Record Management System - Books   
+========================================
+1. Add record
+2. Display all records
+3. Search record by ID
+4. Update record
+5. Delete record
+6. Sort records
+7. Export to CSV
+8. Dashboard summary
+0. Exit
+Select an option: 
+Sort Options
+1. Title
+2. Year
+3. Author
+Sort by: ID    Title                       Author                Year    Genre             Status        
+------------------------------------------------------------------------------------------------
+101   Clean Code                  Robert C. Martin      2008    Software Engin... Available     
+102   The Pragmatic Programmer... Andrew Hunt and Da... 2019    Programming       Available     
+
+========================================
+     Record Management System - Books   
+========================================
+1. Add record
+2. Display all records
+3. Search record by ID
+4. Update record
+5. Delete record
+6. Sort records
+7. Export to CSV
+8. Dashboard summary
+0. Exit
+Select an option: 
+CSV exported successfully.
+File: exports\books_export.csv
+
+========================================
+     Record Management System - Books   
+========================================
+1. Add record
+2. Display all records
+3. Search record by ID
+4. Update record
+5. Delete record
+6. Sort records
+7. Export to CSV
+8. Dashboard summary
+0. Exit
+Select an option: 
+Library Snapshot
+Total books: 2
+Available: 2
+Checked out: 0
+Oldest title: Clean Code
+Newest title: The Pragmatic Programmer 20th Anniversary
+
+========================================
+     Record Management System - Books   
+========================================
+1. Add record
+2. Display all records
+3. Search record by ID
+4. Update record
+5. Delete record
+6. Sort records
+7. Export to CSV
+8. Dashboard summary
+0. Exit
+Select an option: 
+Enter ID to delete: Record deleted successfully.
+
+========================================
+     Record Management System - Books   
+========================================
+1. Add record
+2. Display all records
+3. Search record by ID
+4. Update record
+5. Delete record
+6. Sort records
+7. Export to CSV
+8. Dashboard summary
+0. Exit
+Select an option: 
+ID    Title                       Author                Year    Genre             Status        
+------------------------------------------------------------------------------------------------
+102   The Pragmatic Programmer... Andrew Hunt and Da... 2019    Programming       Available     
+
+========================================
+     Record Management System - Books   
+========================================
+1. Add record
+2. Display all records
+3. Search record by ID
+4. Update record
+5. Delete record
+6. Sort records
+7. Export to CSV
+8. Dashboard summary
+0. Exit
+Select an option: 
+Exiting Record Management System.
+
